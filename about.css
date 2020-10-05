@@ -1,6 +1,6 @@
 /*about Hero Section*/
 .about-hero {
-    background-image: url("../img/about-hero.jpg");
+    background-image: url("/about-hero.jpg");
     height: 450px;
     text-align:center;
     background-size: cover;
@@ -9,13 +9,13 @@
 .about-hero h1 {
     margin-top: 0px;
     text-align: center;
-    color: black;
+    color: white;
     padding-top: 200px;
     background-attachment: fixed;
 }
 
 /*Columns Begin here*/
-.column{
+.column {
     box-sizing:border-box;
     width:33%;
     float: left;
